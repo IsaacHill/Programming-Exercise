@@ -25,5 +25,10 @@ SMITH, ANDREW
 SMITH, FREDRICK'
   File.delete("testOutput.txt")
 end
-
+  it 'Correct Args' do
+    ##todo: figure out respec simulating command line input 
+end
+  it 'Check Correct Output' do
+    ##todo: check output runs correctly
+end
 end
